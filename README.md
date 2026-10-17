@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ecologic una empresa que aplica responsabilidad social empresarial en el área del cuidado al medio ambiente 
 
 <!--
 **Ecologic03/Ecologic03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
